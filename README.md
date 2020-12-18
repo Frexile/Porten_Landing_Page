@@ -9,5 +9,16 @@ All work have done using [Visual Studio Code](https://code.visualstudio.com/)
 3. Add ***Live Server*** extention to VSCode for creating local server while developing.
 4. Preparation done!
 
+## Technical requirements
+1. Landing page
+    * fixed menu
+    * fullscreen pic
+    * items section
+    * feedback form
+    * contacts
+2. Unique item page
+    * pic of item
+    * description
+
 ## Portfolio Site template
 [Porten Landing Page Template :octocat:](https://frexile.github.io/Porten_Landing_Page/)
