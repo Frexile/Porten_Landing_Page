@@ -10,4 +10,4 @@ All work have done using [Visual Studio Code](https://code.visualstudio.com/)
 4. Preparation done!
 
 ## Portfolio Site template
-[My site template :octocat:](https://frexile.github.io/WEB_Portfolio_Page/)
+[Porten Landing Page Template :octocat:](https://frexile.github.io/Porten_Landing_Page/)
